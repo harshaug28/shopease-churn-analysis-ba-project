@@ -5,7 +5,7 @@
 **Problem Statement:**  
 ShopEase, a mid-sized e-commerce company, is experiencing a **27% annual customer churn rate**, resulting in an estimated **$4.2M revenue loss per year**. The goal of this project is to identify the root causes of churn, define business requirements for a predictive retention system, and propose data-driven solutions.
 
-**Analyst:** [Your Name]  
+**Analyst:** Harsh Patel  
 **Industry:** E-Commerce / Retail  
 **Project Duration:** 8 Weeks  
 **Status:** Completed
@@ -90,4 +90,4 @@ ShopEase, a mid-sized e-commerce company, is experiencing a **27% annual custome
 
 This project was completed as a portfolio piece demonstrating end-to-end business analysis skills including stakeholder management, requirements elicitation, process mapping, data analysis, and solution design.
 
-**Connect:** [Your LinkedIn] | [Your Email]
+**Connect:** [https://www.linkedin.com/in/harshpatel2882000/] 
